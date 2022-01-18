@@ -2,9 +2,13 @@
 
 - [**2022/01/17 - HTTP/1.1 中 ETag 和 Last-Modify 有什么区别，为什么有了 Last-Modify 还需要 ETag？**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/http.md#20220117)
 
-  ![http-tag](https://img.shields.io/badge/HTTP-green) ![short-answer](https://img.shields.io/badge/简答题-cyan)
+  ![HTTP-tag](https://img.shields.io/badge/HTTP-green) ![short-answer](https://img.shields.io/badge/简答题-cyan)
   
   - HuangJunjia [Answer](./huangjunjia/2022-01-17.md#last-modified)
+
+- [**2022/01/18 - 搜索插入位置**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/algorithm.md#20220118)
+
+  ![Algorithm-tag](https://img.shields.io/badge/Algorithm-orange) ![short-answer](https://img.shields.io/badge/简单-pink)
 
 ---
 
