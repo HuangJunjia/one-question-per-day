@@ -14,9 +14,9 @@ Last-Modified: Mon, 10 Nov 2018 09:10:11 GMT
 
 - 如如果资源被修改了，最后修改时间变了，但是内容没有变，会重新请求资源文件。
 
-![](./image.png)
+![image.png](https://s2.loli.net/2022/01/18/3KqvojfWwLynAp5.png)
 
-![](./image2.png)
+![image1.png](https://s2.loli.net/2022/01/18/iPvBVUCrh6zAjMF.png)
 
 # Etag & If-None-Match
 
@@ -24,12 +24,13 @@ Last-Modified: Mon, 10 Nov 2018 09:10:11 GMT
 
 Etag是服务器响应请求时，返回当前资源文件的一个唯一标识(由服务器生成)，如下。
 
-![](./image3.png)
+![image2.png](https://s2.loli.net/2022/01/18/hVtSWDzlIjmQ2nO.png)
 
 If-None-Match是客户端再次发起该请求时，携带上次请求返回的唯一标识Etag值，通过此字段值告诉服务器该资源上次请求返回的唯一标识值。服务器收到该请求后，发现该请求头中含有If-None-Match，则会根据If-None-Match的字段值与该资源在服务器的Etag值做对比，一致则返回304，代表资源无更新，继续使用缓存文件；不一致则重新返回资源文件，状态码为200，如下。
 
-![](./image4.png)
+![image3.png](https://s2.loli.net/2022/01/18/ZnIxPYtrFOMqceC.png)
 
 **Etag / If-None-Match优先级高于Last-Modified / If-Modified-Since，同时存在则只有Etag / If-None-Match生效。**
 
 缺点：实际应用中由于Etag的计算是使用算法来得出的，而算法会占用服务端计算的资源。
+
