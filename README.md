@@ -4,22 +4,22 @@
 
   ![HTTP-tag](https://img.shields.io/badge/HTTP-green) ![short-answer](https://img.shields.io/badge/简答题-cyan)
   
-  - HuangJunjia [Answer](./huangjunjia/2022-01-17.md#last-modified)
-  - luomen [Answer](./answers/luomen/2022-01-17.md)
-  - wangyaming [Answer](./answers/wangyaming/2022-01-17.md)
+  - HuangJunjia [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/huangjunjia/2022-01-17.md#last-modified)
+  - luomen [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/luomen/2022-01-17.md)
+  - wangyaming [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/wangyaming/2022-01-17.md)
   
 - [**2022/01/18 - 搜索插入位置**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/algorithm.md#20220118)
 
   ![Algorithm-tag](https://img.shields.io/badge/Algorithm-orange) ![short-answer](https://img.shields.io/badge/简单-pink)
   
-  * luomen [Answer](./answers/luomen/2022-01-18.md)
-  * wangyaming [Answer](./answers/wangyaming/2022-01-18.js)
+  * luomen [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/luomen/2022-01-18.md)
+  * wangyaming [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/wangyaming/2022-01-18.js)
 
 - [**2022/01/18 - 浏览器在输入 URL 到页面渲染完成的过程中发生了什么事情？**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/web.md#20220119)
 
   ![Web-tag](https://img.shields.io/badge/Web-blue) ![short-answer](https://img.shields.io/badge/简答题-cyan)
   
-  - HuangJunjia [Answer](./huangjunjia/2022-01-19.md)
+  - HuangJunjia [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/huangjunjia/2022-01-19.md)
 
 ---
 
