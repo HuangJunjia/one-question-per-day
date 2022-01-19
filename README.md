@@ -15,6 +15,10 @@
   * luomen [Answer](./answers/luomen/2022-01-18.md)
   * wangyaming [Answer](./answers/wangyaming/2022-01-18.js)
 
+- [**2022/01/18 - 浏览器在输入 URL 到页面渲染完成的过程中发生了什么事情？**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/web.md#20220119)
+
+  ![Web-tag](https://img.shields.io/badge/Web-blue) ![short-answer](https://img.shields.io/badge/简答题-cyan)
+
 ---
 
 ## 提交问题规则
