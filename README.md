@@ -6,12 +6,14 @@
   
   - HuangJunjia [Answer](./huangjunjia/2022-01-17.md#last-modified)
   - luomen [Answer](./answers/luomen/2022-01-17.md)
+  - wangyaming [Answer](./answers/wangyaming/2022-01-17.md)
   
 - [**2022/01/18 - 搜索插入位置**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/algorithm.md#20220118)
 
   ![Algorithm-tag](https://img.shields.io/badge/Algorithm-orange) ![short-answer](https://img.shields.io/badge/简单-pink)
   
   * luomen [Answer](./answers/luomen/2022-01-18.md)
+  * wangyaming [Answer](./answers/wangyaming/2022-01-18.js)
 
 ---
 
