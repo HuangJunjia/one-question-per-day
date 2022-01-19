@@ -20,6 +20,7 @@
   ![Web-tag](https://img.shields.io/badge/Web-blue) ![short-answer](https://img.shields.io/badge/简答题-cyan)
   
   - HuangJunjia [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/huangjunjia/2022-01-19.md)
+  - luomen [Answer](./answers/luomen/2022-01-19.md)
 
 ---
 
