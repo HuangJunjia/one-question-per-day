@@ -18,7 +18,7 @@ const searchInsert = function(nums, target) {
     }
   }
 
-  return left;
+  return left
 };
 
 describe('2022-01-18', () => {
