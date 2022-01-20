@@ -21,6 +21,7 @@
   
   - HuangJunjia [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/huangjunjia/2022-01-19.md)
   - luomen [Answer](./answers/luomen/2022-01-19.md)
+  - wangyaming[Answer](./answers/wangyaming/2022-01-20.md)
 
 ---
 
