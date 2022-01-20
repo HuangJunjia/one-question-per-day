@@ -3,7 +3,7 @@
  * @param {number} target
  * @return {number}
  */
-const searchInsert = function(nums, target) {
+const searchInsert = function (nums, target) {
   let left = 0;
   let right = nums.length - 1;
 
@@ -18,12 +18,11 @@ const searchInsert = function(nums, target) {
     }
   }
 
-  return left
+  return left;
 };
 
 describe('2022-01-18', () => {
   it('result is correct', () => {
-    expect(searchInsert([1,3,5,6], 5)).toBe(2);
-  })
-})
-
+    expect(searchInsert([1, 3, 5, 6], 5)).toBe(2);
+  });
+});

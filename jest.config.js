@@ -4,4 +4,4 @@ module.exports = {
     '<rootDir>/answers/**/**.spec.ts',
     '<rootDir>/answers/**/**.spec.js',
   ],
-}
+};
