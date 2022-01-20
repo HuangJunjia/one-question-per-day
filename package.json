@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest -c jest.config.js",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint": "eslint --ext .js,.ts answers"
   },
   "repository": {
     "type": "git",
