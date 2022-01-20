@@ -14,6 +14,7 @@
   
   * luomen [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/luomen/2022-01-18.md)
   * wangyaming [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/wangyaming/2022-01-18.js)
+  * HuangJunjia [Answer](https://github.com/HuangJunjia/one-question-per-day/blob/main/answers/huangjunjia/2022-01-18.spec.js)
 
 - [**2022/01/19 - 浏览器在输入 URL 到页面渲染完成的过程中发生了什么事情？**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/web.md#20220119)
 
