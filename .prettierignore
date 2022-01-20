@@ -1,0 +1,6 @@
+*.md
+.husky
+.idea
+.vscode
+.history
+.DS_Store

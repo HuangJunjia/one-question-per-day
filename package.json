@@ -1,0 +1,29 @@
+{
+  "name": "one-question-per-day",
+  "version": "1.0.0",
+  "description": "- [**2022/01/17 - HTTP/1.1 中 ETag 和 Last-Modify 有什么区别，为什么有了 Last-Modify 还需要 ETag？**](https://github.com/HuangJunjia/one-question-per-day/blob/main/questions/http.md#20220117)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -c jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangJunjia/one-question-per-day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuangJunjia/one-question-per-day/issues"
+  },
+  "homepage": "https://github.com/HuangJunjia/one-question-per-day#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "husky": "^7.0.4",
+    "jest": "^27.4.7",
+    "prettier": "2.5.1",
+    "typescript": "^4.5.4"
+  }
+}
